@@ -59,10 +59,12 @@ Database:- MYSQL for Storing Transaction history
 ![Screenshot 2022-07-31 182517](https://user-images.githubusercontent.com/84500245/182027918-0c6d1d68-4aac-47cf-bd0f-ab04a4e83ef3.jpg)
 
 
+
 # Print Bill
 
 ![Screenshot 2022-07-31 182543](https://user-images.githubusercontent.com/84500245/182027924-561d42ac-83c5-4789-ac04-9da9ababe643.jpg)
 ![Screenshot 2022-07-31 182758](https://user-images.githubusercontent.com/84500245/182027952-b07525c4-a34c-4d87-baa2-3cfb29132014.jpg)
+
 
 
 # Logout
